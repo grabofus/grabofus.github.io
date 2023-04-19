@@ -1,0 +1,1 @@
+cp -TRv ../zomboid-chunk-cleaner/dist ./zomboid-chunk-cleaner
